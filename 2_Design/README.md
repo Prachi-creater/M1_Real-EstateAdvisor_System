@@ -7,7 +7,7 @@
 
 
 
-![class_diagram](https://github.com/Prachi-creater/M1_Real-EstateAdvisor_System/tree/master/2_Design)
+![class_diagram](https://github.com/Prachi-creater/M1_Real-EstateAdvisor_System/blob/master/2_Design/Class%20diagram.jpg)
 
 
 
