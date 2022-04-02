@@ -1,5 +1,6 @@
 
 ## Real-Estate Advisor System
+![image](https://github.com/Prachi-creater/M1_Real-EstateAdvisor_System/blob/master/1_Requirements/Real-estate-image.jpg)
  ## Description of project
  * Today real-estate is trending business,in this days buyer searches for property via the dealer. Real-estate advisor helps people to connect each other for buying and selling of their properties. It is a modern way to buy or sell the properties. Buyers are one click away to get the information of all type of properties that are in and around them and the sellers can register their properties by providing the specificatons of their property.
 
